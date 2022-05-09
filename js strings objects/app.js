@@ -600,6 +600,25 @@
 
 
 
+// question 17
+
+
+
+
+
+
+
+// var user = "Pakistan";
+// var userLastchar = user.charAt(7);
+// document.write("<br><br>User Input: " + user);
+// document.write("<br>Last Character of Input: " + userLastchar);
+
+
+
+
+
+
+
 
 
 
