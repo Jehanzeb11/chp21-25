@@ -440,6 +440,47 @@
 
 
 
+// question 13
+
+
+// var userName = prompt("Enter Your Name: ");
+// var message;
+// var arr1=[];
+// var arr2=[];
+
+// for(var i=0;i<userName.length;i++)
+// {
+//     arr1[i]=userName.split("&nbsp;");
+//     arr2[i]=userName.charCodeAt(i);
+//     if(arr2[i]!=33||arr2[i]!=44||arr2[i]!=46||arr2[i]!=64)
+//     {
+//             message="Correct User Name";
+//     }
+//     while(arr2[i]==33||arr2[i]==44||arr2[i]==46||arr2[i]==64)
+//     {
+//         alert("Please enter a valid userName");                                                                                                                   
+//         userName=prompt("Enter your Name: ");
+//         for(var i=0;i<userName.length;i++)        {
+//             arr1[i]=userName.split("&nbsp;");
+//             arr2[i]=userName.charCodeAt(i);
+//             if(arr2[i]!=33||arr2[i]!=44||arr2[i]!=46||arr2[i]!=64)
+//             {
+//                 break;
+//            }
+//         }
+//     }
+
+// }
+// alert(message);
+
+
+
+
+
+
+
+
+
 
 
 
@@ -547,20 +588,6 @@
 // let indPakN = lPak.charAt("user input: "+lPak.length - 1)
 
 // document.write("last chracter of input "+indPakN)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
